@@ -1,5 +1,7 @@
 # AB-Test
 ![This is an image](https://github.com/CagriKaradeniz/AB-Test/blob/main/main-qimg-4b0170126f6b57568e15de76a64d9f3b.png?raw=true)
+
+
 # Business Problem
 Facebook recently introduced a new type of bid, average bidding, as an alternative way to the current type of bidding called maximum bidding. 
 One of our clients decided to test this new feature and would like to do an A/B test to see if averagebidding converts more than maximumbidding.
